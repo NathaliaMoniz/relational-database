@@ -1,1 +1,1 @@
-# relational-database
+# FreeCodeCamp relational database challenges
